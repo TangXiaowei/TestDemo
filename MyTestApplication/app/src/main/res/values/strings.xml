@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Test Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world_2">~~~~~~~~~2~~~~~~~</string>
+    <string name="hello_world_3">!!!!!!!!3!!!!!!!</string>
+    <string name="hello_world_4">########4#######</string>
+    <string name="hello_world_5">$$$$$$$$5$$$$$$$</string>
+    <string name="hello_world_6">%%%%%%%%6%%%%%%%</string>
+
+
+</resources>
